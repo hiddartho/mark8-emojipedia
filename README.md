@@ -1,4 +1,5 @@
 # Mark Eight- emoji Interpreter app
+This app is made on codesanbox using ReactJS
 ## Languages:
 1. HTML
 1. CSS
