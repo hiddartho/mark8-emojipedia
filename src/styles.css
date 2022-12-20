@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap");
+/* *{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+} */
+.App {
+  font-family: "Roboto Slab", "sans-serif";
+  letter-spacing: 0.1rem;
+  text-align: center;
+}
+body {
+  background-color: #fb923c;
+}
+input {
+  width: 20rem;
+  height: 5vh;
+  margin-bottom: 1rem;
+  background-color: #fb923c;
+  border: 2px solid #fff;
+  border-radius: 0.5rem;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline-block;
+  font-size: 1.7rem;
+  padding: 0.5rem 2rem;
+  cursor: pointer;
+}
